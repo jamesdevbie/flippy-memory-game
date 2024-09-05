@@ -1,4 +1,4 @@
-<h1 style="color:#020242">Flippy - The Memory Game</h1>
+<h1>Flippy - The Memory Game</h1>
 
 Flippy is a Memory game that is interactive and challenging, it tests your ability to recall and remember different colors. The goal is to improve your concentration, attention, and memory skills by memorizing and matching these colors. It's a great way to exercise your brain, boost your cognitive abilities, and have fun at the same time!
 
@@ -13,3 +13,5 @@ Flippy is a Memory game that is interactive and challenging, it tests your abili
 4. If they don't match, it will flip back in a moment.<br/>
 
 5. Continue flipping two cards at a time until all pairs are found.<br/>
+
+6. At any time, you can click restart to shuffle and generate newer cards.
