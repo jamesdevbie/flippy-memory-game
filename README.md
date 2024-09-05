@@ -2,7 +2,7 @@
 
 Flippy is a Memory game that is interactive and challenging, it tests your ability to recall and remember different colors. The goal is to improve your concentration, attention, and memory skills by memorizing and matching these colors. It's a great way to exercise your brain, boost your cognitive abilities, and have fun at the same time!
 
-<h2><ul>How to Play:</ul><h2>
+<h2><ul>How to Play:</ul></h2>
 
 1. The game <a href="https://flippy-memory-game.vercel.app/">URL</a> will land you in the main page. Either click the Enter button on screen or press Enter button in your keyboard to start.<br/>
 
