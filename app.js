@@ -65,7 +65,7 @@ function cardGenerator(n) {
   return cards
 }
 
-/* Generates cards, duplicates and suffles */
+/* Generates cards, duplicates and shuffles */
 let cards = cardGenerator(6)
 let cardSet = [...cards, ...cards]
 shuffledCardSet = Shuffle([...cardSet])
@@ -99,6 +99,7 @@ function renderCards(cards) {
 
 renderCards(shuffledCardSet)
 
+/* Handler function that handles clicking on a card, flipping them back and fro, finalizes the winning condition.*/ 
 function handleCardClick(e) {
   if (flippedCards.length > 2) {
     return
