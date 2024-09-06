@@ -49,7 +49,7 @@ restart.addEventListener('click', () => {
 /*Generates Card Data with dynamic ID's and randox Hex Codes for color
 Used Math.random() to generate random numbers between 0 & 1, rounded off and multiplied with 1000000
 converts it to HEX using .toString(16) with base 16
-padStart() makes sure that the generated hex is always 6 char by adding 0 until it becomes 6 char */
+padEnd() makes sure that the generated hex is always 6 char by adding 0 until it becomes 6 char */
 function cardGenerator(n) {
   let cards = []
   for (let i = 0; i < n; i++) {
